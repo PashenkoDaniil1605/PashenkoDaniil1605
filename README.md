@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PashenkoDaniil1605
 - 👀 I’m interested in  C#
-- 🌱 I’m currently learning  I in university PSU physico-mathematical 2  course
+- 🌱 I’m currently learning  I in university PSU physico-mathematical 4  course
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
 
